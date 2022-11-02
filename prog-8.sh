@@ -2,31 +2,31 @@
 read filename
 if [ -d $filename ]
 then
-    echo “cppdir is a directory”
+    echo $filename "is a directory"
 else
-    echo “cppdir is not a directory”
+    echo $filename "is not a directory"
 fi
 if [ -f $filename ]
 then
-    echo “filea is a regular file”
+    echo $filename "is a regular file"
 else
-    echo “filea is not a regular file”
+    echo $filename "is not a regular file"
 fi
 if [ -r $filename ]
 then
-    echo “filea has read permissione”
+    echo $filename "has read permission"
 else
-    echo “filea dose not have read permissione”
+    echo $filename "dose not have read permission"
 fi
 if [ -w $filename ]
 then
-    echo “filea has write permissione”
+    echo $filename "has write permission"
 else
-    echo “filea dose not have write permissione”
+    echo $filename "dose not have write permission"
 fi
 if [ -x $filename ]
 then
-    echo “cppdir has execute permissione”
+    echo $filename "has execute permission"
 else
-    echo “cppdir dose not have execute permissione”
+    echo $filename "dose not have execute permission"
 fi

@@ -1,5 +1,5 @@
 #! /bin/bash
-displaymonth ( ) { #定义函数
+function displaymonth() { #定义函数
         case $1 in
             01|1 ) echo "Month is January";;
             02|2 ) echo "Month is February";;
