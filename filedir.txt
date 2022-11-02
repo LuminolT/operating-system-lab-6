@@ -1,0 +1,60 @@
+backup
+cppdir
+ex-4.sh
+filea
+fileb
+filedir.txt
+omg.c
+prog-10-a.sh
+prog-10-b.sh
+prog-11.sh
+prog-2.sh
+prog-3.sh
+prog-4.sh
+prog-5.sh
+prog-6-1.sh
+prog-6-2.sh
+prog-7.sh
+prog-8.sh
+prog-9-a.sh
+prog-9-b.sh
+prog-9-c.sh
+prog-9-d.sh
+README.md
+show.sh
+tempCodeRunnerFile.sh
+omg.c
+luminol  tty1         2022-11-03 00:34 (:0)
+luminol  pts/0        2022-11-03 00:34 (:0)
+luminol  pts/1        2022-11-03 00:36 (:0)
+luminol  pts/2        2022-11-03 00:36 (:0)
+backup
+cppdir
+ex-4.sh
+filea
+fileb
+filedir.txt
+omg.c
+prog-10-a.sh
+prog-10-b.sh
+prog-11.sh
+prog-2.sh
+prog-3.sh
+prog-4.sh
+prog-5.sh
+prog-6-1.sh
+prog-6-2.sh
+prog-7.sh
+prog-8.sh
+prog-9-a.sh
+prog-9-b.sh
+prog-9-c.sh
+prog-9-d.sh
+README.md
+show.sh
+tempCodeRunnerFile.sh
+omg.c
+luminol  tty1         2022-11-03 00:34 (:0)
+luminol  pts/0        2022-11-03 00:34 (:0)
+luminol  pts/1        2022-11-03 00:36 (:0)
+luminol  pts/2        2022-11-03 00:36 (:0)
