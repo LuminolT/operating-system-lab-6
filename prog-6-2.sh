@@ -1,31 +1,31 @@
 #!/bin/bash
 if [ -d cppdir ]
 then
-    echo “cppdir is a directory”
+    echo "cppdir is a directory"
 else
-    echo “cppdir is not a directory”
+    echo "cppdir is not a directory"
 fi
 if [ -f filea ]
 then
-    echo “filea is a regular file”
+    echo "filea is a regular file"
 else
-    echo “filea is not a regular file”
+    echo "filea is not a regular file"
 fi
 if [ -r filea ]
 then
-    echo “filea has read permissione”
+    echo "filea has read permission"
 else
-    echo “filea dose not have read permissione”
+    echo "filea dose not have read permission"
 fi
 if [ -w filea ]
 then
-    echo “filea has write permissione”
+    echo "filea has write permission"
 else
-    echo “filea dose not have write permissione”
+    echo "filea dose not have write permission"
 fi
 if [ -x cppdir ]
 then
-    echo “cppdir has execute permissione”
+    echo "cppdir has execute permission"
 else
-    echo “cppdir dose not have execute permissione”
+    echo "cppdir dose not have execute permission"
 fi

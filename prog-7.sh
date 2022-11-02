@@ -1,19 +1,19 @@
 #!/bin/bash
 read string1
 read string2
-if [ $string1 = $string2 ]
+if [ "$string1" = "$string2" ]
 then
     echo "string1 equal to string2"
 else
     echo "string1 not equal to string2"
 fi
-if [ $string1 ]
+if [ "$string1" ]
 then
     echo "string1 is not empty"
 else
     echo "string1 is empty"
 fi
-if [ -n $string2 ]
+if [ -n "$string2" ]
 then
     echo "string2 has a length greater than zero"
 else

@@ -1,14 +1,12 @@
 #!/bin/bash
-total=$#
-array=($*)
-if [ $total = 0 ]
+if [ $# = 0 ]
 then
     echo "name not provided"
 else
-    echo $total
-    echo ${BASH_SOURCE}
-    for i in `seq $total`
+    echo $#
+    echo $0
+    for name in $*
     do
-        echo "Your name is "$i: ${array[$i-1]}
+        echo "Your name is" $name
     done  
 fi

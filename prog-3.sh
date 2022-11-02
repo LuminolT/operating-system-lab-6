@@ -1,5 +1,5 @@
 #!/bin/bash
-if [ $# = 0 ]
+if [ $# = 0 ];
 then
 	echo "Name not provided"
 else
